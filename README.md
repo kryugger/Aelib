@@ -1,3 +1,4 @@
+I have several ideas that I intend to implement this is connected with the new type of registry when interacting with the world map
 # Aelib
 
 ![aelib](./icons/ae_active.svg)
